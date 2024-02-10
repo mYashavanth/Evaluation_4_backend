@@ -20,6 +20,7 @@ app.use(
       `http://localhost:${PORT}`,
       "http://localhost:5173",
       "http://localhost:5174",
+      "https://evaluation-4-frontend-eight.vercel.app",
     ],
   })
 );
